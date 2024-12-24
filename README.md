@@ -1,5 +1,5 @@
-# Project Name
-> Outline a brief description of your project.
+# Lending Club Case Study
+> The Lending Club case study aims to identify the key factors (or driver variables) contributing to loan defaults, specifically those that serve as strong indicators of default. The company can leverage this understanding to enhance its portfolio management and risk assessment strategies.
 
 
 ## Table of Contents
