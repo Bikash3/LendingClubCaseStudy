@@ -8,41 +8,46 @@
 * [Conclusions](#conclusions)
 * [Acknowledgements](#acknowledgements)
 
-<!-- You can include any other section that is pertinent to your problem -->
-
 ## General Information
-- Provide general information about your project here.
-- What is the background of your project?
-- What is the business probem that your project is trying to solve?
-- What is the dataset that is being used?
+We at UPGRAD doing this Lending Club Case Study as a part of EDA. 
 
-<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
+This company is the leading online loan marketplace, offering personal loans, business loans, and financing for medical procedures. Borrowers can easily access loans with lower interest rates through a quick online platform.
+
+Similar to other lending institutions, the primary source of financial loss (known as credit loss) comes from lending to 'risky' applicants. Credit loss refers to the money lost by the lender when a borrower fails to repay or absconds with the owed funds. In essence, borrowers who default cause the greatest financial harm to lenders. In this context, customers labeled as 'charged-off' are considered the 'defaulters.'
+
+The goal of this case study is to identify these high-risk loan applicants through exploratory data analysis (EDA), which can help reduce such loans and minimize credit loss.
+
+Data set use is the Loan Dataset.
 
 ## Conclusions
-- Conclusion 1 from the analysis
-- Conclusion 2 from the analysis
-- Conclusion 3 from the analysis
-- Conclusion 4 from the analysis
-
-<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
+ Loan Request coming under these categories are most likely to be a Defaulter
+    1.From state NE,IA,KS 
+    2.Verified Customers
+    3.Loan purpose for them are Small Business 
+    4.Customer Grade is Lower Grade (G) and they are charging more interest rate too 
+    5.Customer having higher experience coming under this category
+    6.Highest percentage of defaulter is under **Other** home ownership and is followed by Rent and Own and Mortgage
+    7.The percentage of Defaulters is much higher in 60 months term then 36 month
+    8.Defaulters are mostly seen in the year 2011
 
 
 ## Technologies Used
-- library - version 1.0
-- library - version 2.0
-- library - version 3.0
+  Python Coding and Visualizations
 
-<!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
 ## Acknowledgements
 Give credit here.
-- This project was inspired by...
+- This project was inspired by Upgrad 
 - References if any...
-- This project was based on [this tutorial](https://www.example.com).
+    https://matplotlib.org/stable/api/index.html
+    https://seaborn.pydata.org/examples/index.html
+
 
 
 ## Contact
-Created by [@githubusername] - feel free to contact me!
+Created by 
+      Bikas Sarkar
+      Sruthi Melepurath
 
 
 <!-- Optional -->
